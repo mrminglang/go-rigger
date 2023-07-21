@@ -1,0 +1,235 @@
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T08:30:30+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T08:30:30+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mq:exchange: topic}","time":"2023-02-08T08:30:30+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T08:30:30+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T09:06:25+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T09:06:25+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mq:exchange: topic}","time":"2023-02-08T09:06:25+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T09:06:26+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T09:19:39+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T09:19:39+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mq:exchange: topic}","time":"2023-02-08T09:19:39+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T09:19:39+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T09:28:53+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T09:28:53+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mq:exchange: topic}","time":"2023-02-08T09:28:53+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T09:28:53+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T09:30:38+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T09:30:38+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mq:exchange: topic}","time":"2023-02-08T09:30:38+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T09:30:38+08:00"}
+{"level":"info","msg":"Channel 消费端=>>>获取通道错误...Exception (504) Reason: \"channel/connection is not open\"","time":"2023-02-08T09:30:38+08:00"}
+{"level":"info","msg":"消费端=>>>获取通道错误...","time":"2023-02-08T09:30:38+08:00"}
+{"level":"info","msg":"reconnect 监听线程重连rabbitMQ成功...","time":"2023-02-08T09:30:43+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T09:31:09+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T09:31:09+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mq:exchange: topic}","time":"2023-02-08T09:31:09+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T09:31:09+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T09:32:14+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T09:32:14+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mq:exchange: topic}","time":"2023-02-08T09:32:14+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T09:32:14+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T09:32:24+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T09:32:24+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mq:exchange: topic}","time":"2023-02-08T09:32:24+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T09:32:25+08:00"}
+{"level":"info","msg":"是否取消订阅:false","time":"2023-02-08T09:32:25+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T15:40:09+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T15:40:09+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T15:40:09+08:00"}
+{"level":"info","msg":"CrateExchange rabbitmq链接对象不存在...","time":"2023-02-08T15:40:10+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T15:40:10+08:00"}
+{"level":"error","msg":"SendDataToMQ rabbitmq链接对象不存在...","time":"2023-02-08T15:40:10+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T15:42:59+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T15:42:59+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T15:42:59+08:00"}
+{"level":"info","msg":"CrateExchange rabbitmq链接对象不存在...","time":"2023-02-08T15:42:59+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T15:42:59+08:00"}
+{"level":"error","msg":"SendDataToMQ rabbitmq链接对象不存在...","time":"2023-02-08T15:42:59+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T15:44:50+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T15:44:50+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T15:44:50+08:00"}
+{"level":"info","msg":"CrateExchange rabbitmq链接对象不存在...","time":"2023-02-08T15:44:50+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T15:44:50+08:00"}
+{"level":"error","msg":"SendDataToMQ rabbitmq链接对象不存在...","time":"2023-02-08T15:44:50+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T15:45:46+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T15:45:46+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T15:45:46+08:00"}
+{"level":"info","msg":"CrateExchange rabbitmq链接对象不存在...","time":"2023-02-08T15:45:46+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T15:45:46+08:00"}
+{"level":"error","msg":"SendDataToMQ rabbitmq链接对象不存在...","time":"2023-02-08T15:45:46+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T15:49:00+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T15:49:00+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T15:49:00+08:00"}
+{"level":"info","msg":"CrateExchange rabbitmq链接对象不存在...","time":"2023-02-08T15:49:00+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T15:49:00+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T15:49:36+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T15:49:36+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T15:49:36+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T15:49:36+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T15:49:49+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T15:49:49+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T15:49:49+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T15:49:49+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T15:50:48+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T15:50:48+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T15:50:48+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T15:50:48+08:00"}
+{"level":"info","msg":"SendDataToMQ topic::mqTopic msq::{\"UserID\":\"a683fd96cb34449188f64cd419082678\",\"UserName\":\"苏意\"}","time":"2023-02-08T15:50:48+08:00"}
+{"level":"info","msg":"CreateQueueBind QueueBind 创建绑定异常 error::Exception (404) Reason: \"NOT_FOUND - no exchange 'mqExchangeName:' in vhost '/'\"","time":"2023-02-08T15:50:48+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T15:52:01+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T15:52:01+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T15:52:01+08:00"}
+{"level":"info","msg":"CrateExchange rabbitmq链接对象不存在...","time":"2023-02-08T15:52:01+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T15:52:01+08:00"}
+{"level":"error","msg":"SendDataToMQ rabbitmq链接对象不存在...","time":"2023-02-08T15:52:01+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T15:52:18+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T15:52:18+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T15:52:18+08:00"}
+{"level":"info","msg":"CrateExchange rabbitmq链接对象不存在...","time":"2023-02-08T15:52:18+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T15:52:18+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T15:53:14+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T15:53:14+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T15:53:14+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T15:53:14+08:00"}
+{"level":"info","msg":"SendDataToMQ topic::mqTopic msq::{\"UserID\":\"7609b798a86d455eb78f0bb24e3491fe\",\"UserName\":\"董银来\"}","time":"2023-02-08T15:53:14+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T16:07:42+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T16:07:42+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T16:07:42+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T16:07:42+08:00"}
+{"level":"info","msg":"RecvMsg msg:: 0xc00002e600","time":"2023-02-08T16:07:42+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T16:11:17+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T16:11:17+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T16:11:17+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T16:11:17+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T16:12:24+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T16:12:24+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T16:12:24+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T16:12:24+08:00"}
+{"level":"info","msg":"SendDataToMQ topic::mqTopic msq::{\"UserID\":\"8880a7e9f649419eb5abee6a042de49c\",\"UserName\":\"许瑜锴\"}","time":"2023-02-08T16:12:24+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T16:17:25+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T16:17:25+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T16:17:25+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T16:17:25+08:00"}
+{"level":"info","msg":"RecvMsg msg::%v 0xc00021c018","time":"2023-02-08T16:17:25+08:00"}
+{"level":"info","msg":"RecvMsg data:: {<nil> map[]   0 0     0001-01-01 00:00:00 +0000 UTC     0 0 false   []}","time":"2023-02-08T16:17:30+08:00"}
+{"level":"info","msg":"chan关闭，取数据异常....","time":"2023-02-08T16:17:30+08:00"}
+{"level":"info","msg":"消费端=>>>获取通道错误...","time":"2023-02-08T16:17:30+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T16:24:26+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T16:24:26+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T16:24:26+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T16:24:26+08:00"}
+{"level":"info","msg":"RecvMsg data Body:: []","time":"2023-02-08T16:24:31+08:00"}
+{"level":"info","msg":"chan关闭，取数据异常....","time":"2023-02-08T16:24:31+08:00"}
+{"level":"info","msg":"消费端=>>>获取通道错误...","time":"2023-02-08T16:24:31+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T16:25:17+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T16:25:17+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T16:25:17+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T16:25:17+08:00"}
+{"level":"info","msg":"RecvMsg data Body:: []","time":"2023-02-08T16:25:27+08:00"}
+{"level":"info","msg":"chan关闭，取数据异常....","time":"2023-02-08T16:25:27+08:00"}
+{"level":"info","msg":"消费端=>>>获取通道错误...","time":"2023-02-08T16:25:27+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T16:30:15+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T16:30:15+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T16:30:15+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T16:30:15+08:00"}
+{"level":"info","msg":"RecvMsg data Body:: []","time":"2023-02-08T16:30:25+08:00"}
+{"level":"info","msg":"chan关闭，取数据异常....","time":"2023-02-08T16:30:25+08:00"}
+{"level":"info","msg":"消费端=>>>获取通道错误...","time":"2023-02-08T16:30:25+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T16:31:02+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T16:31:02+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T16:31:02+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T16:31:02+08:00"}
+{"level":"info","msg":"SendDataToMQ topic::mqTopic msq::{\"UserID\":\"1c5a6b73b66642fe85ee5072243dde1e\",\"UserName\":\"薛奕\"}","time":"2023-02-08T16:31:02+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T16:31:11+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T16:31:11+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T16:31:11+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T16:31:11+08:00"}
+{"level":"info","msg":"RecvMsg data Body:: []","time":"2023-02-08T16:31:21+08:00"}
+{"level":"info","msg":"chan关闭，取数据异常....","time":"2023-02-08T16:31:21+08:00"}
+{"level":"info","msg":"消费端=>>>获取通道错误...","time":"2023-02-08T16:31:21+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T16:43:38+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T16:43:38+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T16:43:38+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T16:43:38+08:00"}
+{"level":"info","msg":"消费端=>>>获取通道错误...","time":"2023-02-08T16:43:48+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T16:49:07+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T16:49:07+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T16:49:07+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T16:49:07+08:00"}
+{"level":"info","msg":"RecvMsg data Body:: []","time":"2023-02-08T16:49:17+08:00"}
+{"level":"info","msg":"chan关闭，取数据异常....","time":"2023-02-08T16:49:17+08:00"}
+{"level":"info","msg":"消费端=>>>获取通道错误...","time":"2023-02-08T16:49:17+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T17:21:27+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T17:21:27+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T17:21:27+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T17:21:27+08:00"}
+{"level":"info","msg":"SendDataToMQ topic::mqTopic msq::{\"UserID\":\"db82f1a75e2d4f299b4e6c540359c47b\",\"UserName\":\"程东昊\"}","time":"2023-02-08T17:21:27+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T17:22:11+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T17:22:11+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T17:22:11+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T17:22:11+08:00"}
+{"level":"info","msg":"SendDataToMQ topic::mqTopic1 msq::{\"UserID\":\"bbf147db6aee435ca73c45a7f416ef01\",\"UserName\":\"尹佳\"}","time":"2023-02-08T17:22:11+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T17:23:15+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T17:23:15+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T17:23:15+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T17:23:15+08:00"}
+{"level":"info","msg":"SendDataToMQ topic::mqTopic1 msq::{\"UserID\":\"f81dbdf0835141d89966343531de48d2\",\"UserName\":\"张承航\"}","time":"2023-02-08T17:23:15+08:00"}
+{"level":"info","msg":"RecvMsg data Body:: []","time":"2023-02-08T17:23:20+08:00"}
+{"level":"info","msg":"chan关闭，取数据异常....","time":"2023-02-08T17:23:20+08:00"}
+{"level":"info","msg":"消费端=>>>获取通道错误...","time":"2023-02-08T17:23:20+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T17:24:46+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T17:24:46+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T17:24:46+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T17:24:46+08:00"}
+{"level":"info","msg":"SendDataToMQ topic::mqTopic1 msq::1234456","time":"2023-02-08T17:24:46+08:00"}
+{"level":"info","msg":"RecvMsg data Body:: []","time":"2023-02-08T17:24:51+08:00"}
+{"level":"info","msg":"chan关闭，取数据异常....","time":"2023-02-08T17:24:51+08:00"}
+{"level":"info","msg":"消费端=>>>获取通道错误...","time":"2023-02-08T17:24:51+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T20:41:59+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T20:41:59+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T20:41:59+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T20:41:59+08:00"}
+{"level":"info","msg":"SendDataToMQ topic::mqTopic1 msq::1234456","time":"2023-02-08T20:41:59+08:00"}
+{"level":"info","msg":"SendMsg 开始发送消息......","time":"2023-02-08T20:41:59+08:00"}
+{"level":"info","msg":"SendMsg 发消息线程启动......","time":"2023-02-08T20:41:59+08:00"}
+{"level":"error","msg":"SendMsg Publish 发送消息到rabbitmq成功......","time":"2023-02-08T20:41:59+08:00"}
+{"level":"info","msg":"RecvMsg data Body:: []","time":"2023-02-08T20:42:04+08:00"}
+{"level":"info","msg":"chan关闭，取数据异常....","time":"2023-02-08T20:42:04+08:00"}
+{"level":"info","msg":"消费端=>>>获取通道错误...","time":"2023-02-08T20:42:04+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T20:44:29+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T20:44:29+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T20:44:29+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T20:44:29+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T20:56:38+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T20:56:38+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T20:56:38+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T20:56:38+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T20:56:48+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T20:56:48+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 mqExchangeName: topic}","time":"2023-02-08T20:56:48+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T20:56:48+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T21:31:09+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T21:31:09+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 app-system: topic}","time":"2023-02-08T21:31:09+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T21:37:25+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T21:37:25+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 app-system: topic}","time":"2023-02-08T21:37:25+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T21:57:34+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T21:57:34+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 app-system: topic}","time":"2023-02-08T21:57:34+08:00"}
+{"level":"error","msg":"rabbitmq CreateConnection 链接错误...Exception (501) Reason: \"read tcp 127.0.0.1:60730->127.0.0.1:5672: i/o timeout\"","time":"2023-02-08T21:58:04+08:00"}
+{"level":"info","msg":"CrateExchange rabbitmq链接对象不存在...","time":"2023-02-08T21:58:04+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T21:58:04+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T22:02:43+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T22:02:43+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 app-system: topic}","time":"2023-02-08T22:02:43+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T22:02:43+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T22:04:21+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T22:04:21+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 app-system: topic}","time":"2023-02-08T22:04:21+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T22:04:21+08:00"}
+{"level":"info","msg":"grabbitMQ connect start....","time":"2023-02-08T22:05:23+08:00"}
+{"level":"info","msg":"GetRabbitMQConfig common path:: /Users/ming/work/go/go-rigger/netmcset/rabbitmq.json","time":"2023-02-08T22:05:23+08:00"}
+{"level":"info","msg":"grabbitMQ config:: &{127.0.0.1 5672 guest guest 5 app-system: topic}","time":"2023-02-08T22:05:23+08:00"}
+{"level":"info","msg":"grabbitMQ connect success....","time":"2023-02-08T22:05:23+08:00"}

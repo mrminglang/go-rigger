@@ -1,0 +1,12 @@
+{
+  "DBHost": "127.0.0.1",
+  "DBPort": 5432,
+  "DBUser": "postgres",
+  "DBPWd": "123456",
+  "DBName": "test",
+  "DBType": "postgres",
+  "DBBatchSize": 1000,
+  "MaxOpenConns": 100,
+  "MaxIdleConns": 10,
+  "ConnMaxLifetime": "600s"
+}

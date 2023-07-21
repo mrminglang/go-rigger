@@ -1,0 +1,12 @@
+{
+  "DBHost": "127.0.0.1",
+  "DBPort": 27017,
+  "DBUser": "tire",
+  "DBPWd": "123456",
+  "DBName": "tire",
+  "DBType": "mongo",
+  "DBBatchSize": 1000,
+  "MaxOpenConns": 100,
+  "MaxIdleConns": 10,
+  "ConnMaxLifetime": "600s"
+}

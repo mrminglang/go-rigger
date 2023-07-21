@@ -1,0 +1,10 @@
+{
+  "RedisIp": "127.0.0.1",
+  "RedisPort": 6379,
+  "RedisPassword": "",
+  "RedisDbIndex": 2,
+  "RedisPrefix": "redis:prefix:",
+  "ResisMaxIdle": 128,
+  "RedisMaxActive": 500,
+  "RedisIdleTimeout": "2s"
+}

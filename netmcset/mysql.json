@@ -1,0 +1,12 @@
+{
+  "DBHost": "172.16.8.138",
+  "DBPort": 3306,
+  "DBUser": "tafadmin",
+  "DBPWd": "tafadmin2017",
+  "DBName": "db_info_result",
+  "DBType": "mysql",
+  "DBBatchSize": 1000,
+  "MaxOpenConns": 100,
+  "MaxIdleConns": 10,
+  "ConnMaxLifetime": "600s"
+}

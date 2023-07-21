@@ -1,0 +1,9 @@
+{
+  "MqIp": "127.0.0.1",
+  "MqPort": "5672",
+  "MqUser": "guest",
+  "MqPassword": "guest",
+  "MqMonitorTimeout": 5,
+  "MqExchange": "app-system:",
+  "MqKing": "topic"
+}

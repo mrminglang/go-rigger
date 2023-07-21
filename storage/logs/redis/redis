@@ -1,0 +1,252 @@
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T11:20:42+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: netmcset/redis.json","time":"2023-02-07T11:20:42+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2 128 500 2}","time":"2023-02-07T11:20:42+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:00:38+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: netmcset/redis.json","time":"2023-02-07T13:00:38+08:00"}
+{"level":"info","msg":"dbredis config:: &{ 0  0  0 0 }","time":"2023-02-07T13:00:38+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:00:38+08:00"}
+{"level":"error","msg":"connect redis server Dial error: dial tcp :0: connect: can't assign requested address","time":"2023-02-07T13:00:38+08:00"}
+{"level":"error","msg":"redis set key:key123,value:value123err:dial tcp :0: connect: can't assign requested address","time":"2023-02-07T13:00:38+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:00:38+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:01:21+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:01:21+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:01:21+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:01:21+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:01:21+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:02:55+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:02:55+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:02:55+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:02:55+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:02:55+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:03:06+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:03:06+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:03:06+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:03:06+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:03:06+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:05:22+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:05:22+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:05:22+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:05:22+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:05:22+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:07:21+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:07:21+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:07:21+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:07:21+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:07:21+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:07:28+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:07:28+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:07:28+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:07:28+08:00"}
+{"level":"error","msg":"redis get key:key123err:redigo: nil returned","time":"2023-02-07T13:07:28+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:07:28+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:07:39+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:07:39+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:07:39+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:07:39+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:07:39+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:24:43+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:24:43+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:24:43+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:24:43+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:24:43+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:25:00+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:25:00+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:25:00+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:25:00+08:00"}
+{"level":"error","msg":"redis get key:key123err:redigo: nil returned","time":"2023-02-07T13:25:00+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:25:00+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:25:06+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:25:06+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:25:06+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:25:06+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:25:06+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:25:11+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:25:11+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:25:11+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:25:11+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:25:11+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:25:25+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:25:25+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:25:25+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:25:25+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:25:25+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:39:13+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:39:13+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:39:13+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:39:13+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:39:13+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:39:21+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:39:21+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:39:21+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:39:21+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:39:21+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:41:36+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:41:36+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:41:36+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:41:36+08:00"}
+{"level":"error","msg":"redis get key:key123err:redigo: nil returned","time":"2023-02-07T13:41:36+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:41:36+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:41:45+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:41:45+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:41:45+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:41:45+08:00"}
+{"level":"error","msg":"redis get key:key123err:redigo: nil returned","time":"2023-02-07T13:41:45+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:41:45+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:42:03+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:42:03+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:42:03+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:42:03+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:42:03+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:42:14+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:42:14+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:42:14+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:42:14+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:42:14+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:42:21+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:42:21+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:42:21+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:42:21+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:42:21+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:42:47+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:42:47+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:42:47+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:42:47+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:42:47+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:45:08+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:45:08+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:45:08+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:45:08+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:45:08+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:46:28+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:46:28+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:46:28+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:46:28+08:00"}
+{"level":"info","msg":"GetAllKey prefix:: ","time":"2023-02-07T13:46:28+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:46:28+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:48:58+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:48:58+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:48:58+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:48:58+08:00"}
+{"level":"info","msg":"redis set key:: key123","time":"2023-02-07T13:48:58+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:48:58+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:50:02+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:50:02+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2  128 500 2s}","time":"2023-02-07T13:50:02+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:50:02+08:00"}
+{"level":"info","msg":"redis set key:: key123","time":"2023-02-07T13:50:02+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:50:02+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:51:32+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:51:32+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2 redis:prefix 128 500 2s}","time":"2023-02-07T13:51:32+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:51:32+08:00"}
+{"level":"info","msg":"redis set key:: redis:prefixkey123","time":"2023-02-07T13:51:32+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:51:32+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:51:54+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:51:54+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2 redis:prefix: 128 500 2s}","time":"2023-02-07T13:51:54+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:51:54+08:00"}
+{"level":"info","msg":"redis set key:: redis:prefix:key123","time":"2023-02-07T13:51:54+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:51:54+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:52:33+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:52:33+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2 redis:prefix: 128 500 2s}","time":"2023-02-07T13:52:33+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:52:33+08:00"}
+{"level":"info","msg":"redis get key:: redis:prefix:key123","time":"2023-02-07T13:52:33+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:52:33+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:54:21+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:54:21+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2 redis:prefix: 128 500 2s}","time":"2023-02-07T13:54:21+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:54:21+08:00"}
+{"level":"info","msg":"GetAllKey prefix:: redis:prefix:","time":"2023-02-07T13:54:21+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:54:21+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:55:26+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:55:26+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2 redis:prefix: 128 500 2s}","time":"2023-02-07T13:55:26+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:55:26+08:00"}
+{"level":"info","msg":"redis get key:: redis:prefix:key123","time":"2023-02-07T13:55:26+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:55:26+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T13:58:29+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T13:58:29+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2 redis:prefix: 128 500 2s}","time":"2023-02-07T13:58:29+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T13:58:29+08:00"}
+{"level":"info","msg":"set lock key100,value100","time":"2023-02-07T13:58:29+08:00"}
+{"level":"info","msg":"redis get key:: redis:prefix:key100","time":"2023-02-07T13:58:29+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T13:58:30+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T14:00:07+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T14:00:07+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2 redis:prefix: 128 500 2s}","time":"2023-02-07T14:00:07+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T14:00:07+08:00"}
+{"level":"info","msg":"redis get key:: redis:prefix:key100","time":"2023-02-07T14:00:07+08:00"}
+{"level":"error","msg":"redis get key:redis:prefix:key100err:redigo: nil returned","time":"2023-02-07T14:00:07+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T14:00:07+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T14:00:16+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T14:00:16+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2 redis:prefix: 128 500 2s}","time":"2023-02-07T14:00:16+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T14:00:16+08:00"}
+{"level":"info","msg":"set lock key100,value100","time":"2023-02-07T14:00:16+08:00"}
+{"level":"info","msg":"redis get key:: redis:prefix:key100","time":"2023-02-07T14:00:16+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T14:00:16+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T14:00:22+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T14:00:22+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2 redis:prefix: 128 500 2s}","time":"2023-02-07T14:00:22+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T14:00:22+08:00"}
+{"level":"info","msg":"redis get key:: redis:prefix:key100","time":"2023-02-07T14:00:22+08:00"}
+{"level":"info","msg":"redis del key:: redis:prefix:key100","time":"2023-02-07T14:00:22+08:00"}
+{"level":"info","msg":"释放分布式锁成功...","time":"2023-02-07T14:00:22+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T14:00:22+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T14:01:10+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T14:01:10+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2 redis:prefix: 128 500 2s}","time":"2023-02-07T14:01:10+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T14:01:10+08:00"}
+{"level":"info","msg":"set lock key100,value100","time":"2023-02-07T14:01:10+08:00"}
+{"level":"info","msg":"分布式锁设置成功...","time":"2023-02-07T14:01:10+08:00"}
+{"level":"info","msg":"redis get key:: redis:prefix:key100","time":"2023-02-07T14:01:10+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T14:01:10+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T14:01:29+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T14:01:29+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2 redis:prefix: 128 500 2s}","time":"2023-02-07T14:01:29+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T14:01:29+08:00"}
+{"level":"info","msg":"redis get key:: redis:prefix:key100","time":"2023-02-07T14:01:29+08:00"}
+{"level":"info","msg":"redis del key:: redis:prefix:key100","time":"2023-02-07T14:01:29+08:00"}
+{"level":"info","msg":"释放分布式锁成功...","time":"2023-02-07T14:01:29+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T14:01:29+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T14:54:33+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T14:54:33+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2 redis:prefix: 128 500 2s}","time":"2023-02-07T14:54:33+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T14:54:33+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T14:54:44+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T14:58:33+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T14:58:33+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2 redis:prefix: 128 500 2s}","time":"2023-02-07T14:58:33+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T14:58:33+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T14:58:42+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T15:03:37+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T15:03:37+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2 redis:prefix: 128 500 2s}","time":"2023-02-07T15:03:37+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T15:03:37+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T15:03:50+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T15:04:32+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T15:04:32+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2 redis:prefix: 128 500 2s}","time":"2023-02-07T15:04:32+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T15:04:32+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T15:04:44+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T15:05:37+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T15:05:37+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2 redis:prefix: 128 500 2s}","time":"2023-02-07T15:05:37+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T15:05:37+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T15:05:47+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T15:06:38+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T15:06:38+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2 redis:prefix: 128 500 2s}","time":"2023-02-07T15:06:38+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T15:06:38+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T15:06:46+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T15:07:51+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T15:07:51+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2 redis:prefix: 128 500 2s}","time":"2023-02-07T15:07:51+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T15:07:51+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T15:08:01+08:00"}
+{"level":"info","msg":"dbredis connect start....","time":"2023-02-07T15:09:39+08:00"}
+{"level":"info","msg":"GetRedisConfig common path:: /Users/ming/work/go/go-rigger/netmcset/redis.json","time":"2023-02-07T15:09:39+08:00"}
+{"level":"info","msg":"dbredis config:: &{127.0.0.1 6379  2 redis:prefix: 128 500 2s}","time":"2023-02-07T15:09:39+08:00"}
+{"level":"info","msg":"dbredis connect success....","time":"2023-02-07T15:09:39+08:00"}
+{"level":"info","msg":"disconnect from base server ok","time":"2023-02-07T15:11:08+08:00"}
